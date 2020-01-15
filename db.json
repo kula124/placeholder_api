@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "admin": true,
+      "username": "kula",
+      "avatar": "https://i.ibb.co/6r0KPPy/Screenshot-20200115-222559.png",
+      "email": "kula124@gmail.com"
+    },
+    {
+      "id": 2,
+      "admin": true,
+      "username": "melani",
+      "avatar": "",
+      "email": "melani@gmail.com"
+    }
+  ],
+  "todos": [
+    {
+      "id": 294,
+      "userId": 1,
+      "title": "Fix login hack/bug",
+      "description": "If you're the CEO of a company, and you're dumb enough to leave your log-in info on a Post-It note on your desk, while the people that you ripped off are physically in your office, it's not a hack. It's barely social engineering. It’s more like natural selection",
+      "urgency": "urgent"
+    },
+    {
+      "id": 296,
+      "userId": 2,
+      "title": "Validate color scheme",
+      "description": "Validate color scheme in application, including all colors in all pages and report discrepancies",
+      "urgency": "low"
+    },
+    {
+      "id": 298,
+      "userId": 1,
+      "title": "API: faulty transcation handlings",
+      "description": "The internet, heard of it? Transfers half a petabyte of data a minute, do you have any idea how that happens? All of those YouPorn ones and zeros streaming directly to your shitty little smart phone day after day. Every dipshit who shits his pants if he can't get the new dubstep Skrillex remix in under 12 seconds. It's not magic, it's talent and sweat. So what do I do? I make sure that one bad config on one key component doesn't bankrupt the entire fucking company. That's what the fuck I do.",
+      "urgency": "high"
+    },
+    {
+      "id": 290,
+      "userId": 2,
+      "title": "UI/UX must comply with design principles",
+      "description": "Ensure we comply with HCI design principles",
+      "urgency": "urgent"
+    },
+    {
+      "id": 281,
+      "userId": 1,
+      "title": "Start implementation of AI libs in our servers",
+      "description": "If the rise of an all-powerful artificial intelligence is inevitable, well it stands to reason that when they take power, our digital overlords will punish those of us who did not help them get there. Ergo, I would like to be a helpful idiot. Like yourself",
+      "urgency": "low"
+    },
+    {
+      "id": 222,
+      "userId": 1,
+      "title": "Can't get my daily coffie!",
+      "description": "Kula, there is a major emergency. Gilfoyle is using the barista as one of the coders, so I tried to use the cappuccino machine on my own, and I don't know if, like, the frother knob is, like, jammed or something, but it's, like, not working. So, there is no froth, at all, for anybody. So, can you get on that?",
+      "urgency": "mid"
+    }
+    ]
+}
